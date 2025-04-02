@@ -1,0 +1,305 @@
+elise: 
+elise: hello
+lol: hello
+lol: how are you today 
+chloe : hello elise
+elise : hello chloe
+Chloe: hello elise can you see me 
+elise: 
+elise: hello?
+Chloe: /exit 
+elise: /exit
+chloe: 
+chloe: hello
+chloe: /exit 
+elise: hello chloe ;)
+chloe: hello elise :)
+elise: hello is anyone there?
+chloe : Hello whos there?
+elise: 
+elise: 
+elise: chloe?
+
+
+elise: hello
+chloe: hello?
+elise: hello
+elise: hello
+chloe : hello?
+elise : hello
+chloe: 
+chloe: hello
+: hello
+: hello
+: how are you 
+: hello
+: hello
+: 
+: hello
+chloe: 
+chloe: hello elise!
+chloe: 
+elise: hello chloe
+chloe: 
+chloe: how are you today?
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+elise: 
+chloe : 
+chloe : hello whos online?
+chloe : 
+elise: hello chloe its elise :)
+chloe : hi elise
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+holly : hello?
+holly : /exit
+chloe : /exit
+elise: /exit 
+elise: 
+elise: /exit 
+elise: 
+elise: 
+elise: 
+elise: /exit
+elise: 
+elise: hello
+elise: 
+elise: /upload C:\Users\elisegill\Documents\logopayroll.png
+elise: 
+elise: 
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+elise: 
+elise: /upload C:\Users\elisegill\Documents\logopayroll.png
+elise: 
+elise: 
+elise: /upload Desktop/desktop/computerscience/secondyear/Programm
+elise: 
+elise: /upload /Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04
+elise: 
+elise: /upload 
+elise: /upload /Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04
+elise: 
+elise: 
+elise: /upload /upload /Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04/assignmenttext
+elise: 
+elise: 
+elise: /upload/Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04
+elise: 
+elise: /upload/Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04
+elise: 
+elise: /upload//Users/elisegill/Desktop/desktop/computerscience/secondyear/Pro
+elise: 
+elise: /upload/Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04/assignmenttext
+elise: \upload/Users/elisegill/Desktop/desktop/computerscience/secondyear/Programming04/assignmenttext
+elise: 
+elise: /exit 
+elise: 
+elise: 
+elise: /exit
+elise: 
+elise: 
+elise: 
+
+hello
+chloe: 
+chloe: hello
+chloe: 
+chloe: 
+elise: 
+chloe : 
+chloe : hello is anyone there?
+elise: hi its me Elise
+elise: how are you 
+unknown user: hello?
+elise: whos this?
+unknown user: is me 
+unknown user: 
+chloe : 
+
+hello
+how are you 
+elise: 
+
+hello
+how are you 
+elise: 
+elise: hello
+elise: hello
+chloe : 
+chloe : hello
+elise: /exit 
+elise: 
+elise: /exit 
+elise: 
+unknown user: 
+unknown user: /exit 
+unknown user: 
+unknown user: /exit 
+elise: \exit 
+unknown user: //exit 
+unknown user: 
+unknown user: /exit
+elise: /exit 
+elise: 
+elise: /exit 
+elise: 
+elise: 
+elise: /exit 
+elise : 
+chloe : 
+chloe : 
+elise : 
+elise : /exit 
+elise : 
+elise : /exit ]
+elise : /exit 
+chloe : /exit 
+chloe : 
+chloe : 
+chloe : 
+chloe : 
+chloe : /exit 
+elise : 
+chloe: 
+chloe: elise?
+chloe: how are you?
+elise : i'm good how are you?
+chloe: 
+chloe: 
+chloe: /exit 
+elise : /exit 
+elise : 
+elise : 
+elise : 
+elise : 
+elise : 
+elise : /exit
+chloe: 
+chloe: 
+chloe: 
+chloe: /exit 
+chloe: 
+chloe: 
+chloe: 
+chloe: /exit 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: /exit 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: 
+chloe: /exit 
+chloe : 
+chloe : 
+chloe : /exit
+elise: hello
+elise : hello
+chloe : hello
+chloe : how are you today
+chloe : /exit
+chloe: /exit
+elise: /exit
+chloe: /exit
+elise: hello?
+chloe : hello?
+elise: how are you?
+chloe : /exit
+elise: /exit
+elise: 
+
+hello
+how are you 
+elise: \
+
+hello
+how are you 
+elise: 
+
+hello
+how are you 
+chloe : 
